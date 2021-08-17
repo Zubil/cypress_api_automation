@@ -16,7 +16,9 @@ npx cypress open
 3. Before running the script in you test runner, Go to the link to verify the layout of json>https://serverest.dev/produtos
 4. To understand what are we validating
 5. The ApiTest.js consists of two test.
+
    Test 1:Verify Api response is json
+   
    Test 2:Verify Api assertions
 6. Run **Api.test** under integration\examples 
 
